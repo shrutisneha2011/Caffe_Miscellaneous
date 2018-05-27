@@ -70,5 +70,5 @@ def opticalFlow(fn,fact,tframes,display):
 	return npFlow
 
 
-fn = '/home/shruti/caffe//dataset/sample.avi'
+fn = '/home/shruti/caffe/dataset/sample.avi'
 opticalFlow(fn,0.5,20,True)
